@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/luka/workspace/vim_projects/build",
+  "command": "/usr/bin/c++       -O3 -std=c++14 -pedantic -Wall -Wextra -Wconversion -fmessage-length=0 -o CMakeFiles/misc.dir/misc.cpp.o -c /home/luka/workspace/vim_projects/src/misc.cpp",
+  "file": "/home/luka/workspace/vim_projects/src/misc.cpp"
+}
+]
